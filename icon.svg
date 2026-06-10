@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Kazakhstan finance dashboard icon">
+  <defs>
+    <linearGradient id="bg" x1="18" y1="12" x2="110" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A84FF"/>
+      <stop offset="1" stop-color="#30D158"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="url(#bg)"/>
+  <path d="M31 87h66" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <path d="M39 76V51M55 76V42M71 76V56M87 76V34" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <path d="M29 39 64 21l35 18" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="91" cy="36" r="9" fill="#FFD60A"/>
+</svg>
